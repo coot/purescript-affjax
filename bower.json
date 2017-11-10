@@ -23,16 +23,16 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-aff": "^4.0.0",
+    "purescript-aff": "git@github.com:coot/purescript-aff#generic",
     "purescript-argonaut-core": "^3.0.0",
     "purescript-arraybuffer-types": "^1.0.0",
     "purescript-dom": "^4.0.0",
     "purescript-foreign": "^4.0.0",
-    "purescript-form-urlencoded": "^3.0.0",
-    "purescript-http-methods": "^3.0.0",
+    "purescript-form-urlencoded": "git@github.com:coot/purescript-form-urlencoded#generic",
+    "purescript-http-methods": "git@github.com:coot/purescript-http-methods#generic",
     "purescript-integers": "^3.0.0",
     "purescript-math": "^2.0.0",
-    "purescript-media-types": "^3.0.0",
+    "purescript-media-types": "git@github.com:coot/purescript-media-types#generic",
     "purescript-nullable": "^3.0.0",
     "purescript-refs": "^3.0.0",
     "purescript-unsafe-coerce": "^3.0.0"
